@@ -1,0 +1,23 @@
+Hello, 
+
+My name is Matt and I will be the Product Support Engineer assisting you today. 
+
+I was able to view your case and gather further insight into the issue. 
+
+I understand that you have been experiencing issues with your Product imports getting stuck at 50%.
+
+I have done some testing surrounding this issue and have found that I am not able to replicate the issue in my own test store, and that the issue appears to be specific to your Control Panel. 
+
+In my testing I have found that very small CSV files can still be imported when the Product count is less than 1,000. 
+
+I have gone ahead and created an Engineering ticket for this issue so that our platform engineers may investigate your Control Panel and determine what facet is halting those imports. This engineering ticket is formally referred to as [PSE-XYZ]. I am going to link this case to that known ticket so that you may be notified once the issue has been resolved.  
+
+For the time being, I would advise splitting your CSV files into increments of 1,000 before attempting to import into the Control Panel. There are several applications that are available on the internet that can automate that process. I have included an article outlining some of the CSV splitting options available below. 
+
+https://tipsmake.com/5-best-free-csv-splitting-tools-csv-file-splitting-software
+
+I apologize for any inconvenience this is currently causing.
+
+I am going to close this case due to the associated engineering ticket for this issue. This does not mean we will forget or disregard the issue; it simply means this will need to be resolved by the engineering teams that work on this aspect of the software. However this support case has been linked to their ticketing system, so you will be notified once the ticket is closed.
+
+If you have any additional questions, comments, or concerns regarding this issue please let me know and I will continue to assist you. 
